@@ -2,3 +2,4 @@
 <a href="https://www.w3schools.com">This is a link</a> link eklemek gerektiğinde çalıştırırsın yazıyı araya al
 <img src="w3schools.jpg" alt(çıkmazsa alternatif)="W3Schools.com" width(en)="104" height(boy)="142"> // alt fotoğraf gözükmediğindeki yazı
 resim srcsi için direkt dizinden dosya okumak mantıklı uzantıları "" içine yapıştır
+<html lang="en"> arama motorlarına ve tarayıcılara yardımcı olmak için baştaki htmlye her zaman lang ekle
