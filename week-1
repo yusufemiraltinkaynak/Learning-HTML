@@ -3,3 +3,6 @@
 <img src="w3schools.jpg" alt(çıkmazsa alternatif)="W3Schools.com" width(en)="104" height(boy)="142"> // alt fotoğraf gözükmediğindeki yazı
 resim srcsi için direkt dizinden dosya okumak mantıklı uzantıları "" içine yapıştır
 <html lang="en"> arama motorlarına ve tarayıcılara yardımcı olmak için baştaki htmlye her zaman lang ekle
+<h2 title="I'm a header">The title Attribute</h2> yanına title eklersen mouse üzerinde ipucu verir
+** Özellikleri ve alıntıldıklarında her zaman "" kullan
+title falan eklediğinde fenotipi araya sıkıştır
