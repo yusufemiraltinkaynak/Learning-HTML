@@ -6,3 +6,5 @@ resim srcsi için direkt dizinden dosya okumak mantıklı uzantıları "" içine
 <h2 title="I'm a header">The title Attribute</h2> yanına title eklersen mouse üzerinde ipucu verir
 ** Özellikleri ve alıntıldıklarında her zaman "" kullan
 title falan eklediğinde fenotipi araya sıkıştır
+** HTML üst üste veya satırdaki boşlukları saymaz 
+<hr> tagı çizgi çekerek bir nevi katman oluşturur, The <hr> tag is an empty tag, which means that it has no end tag.
