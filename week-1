@@ -1,4 +1,4 @@
-<p>This is a <br> paragraph with a line break.</p> // <br> /n ile aynı görevi görür
+<p>This is a <br> paragraph with a line break.</p> // 
 <a href="https://www.w3schools.com">This is a link</a> link eklemek gerektiğinde çalıştırırsın yazıyı araya al
 <img src="w3schools.jpg" alt(çıkmazsa alternatif)="W3Schools.com" width(en)="104" height(boy)="142"> // alt fotoğraf gözükmediğindeki yazı
 resim srcsi için direkt dizinden dosya okumak mantıklı uzantıları "" içine yapıştır
@@ -8,3 +8,5 @@ resim srcsi için direkt dizinden dosya okumak mantıklı uzantıları "" içine
 title falan eklediğinde fenotipi araya sıkıştır
 ** HTML üst üste veya satırdaki boşlukları saymaz 
 <hr> tagı çizgi çekerek bir nevi katman oluşturur, The <hr> tag is an empty tag, which means that it has no end tag.
+<br> /n ile aynı görevi görür aynı paragraf içinde kullanılabilir
+<pre> <p> gibi ama boşluklara ve satırlara duyarlı
