@@ -36,3 +36,4 @@ Use text-align for text alignment
 <address></address> iletişim bilgilerini yazarken gerekisiz
 <cite></cite> alıntıyı italik yazdırır
 <bdo dir="rtl"> yazıyı ters çevirir
+<!-- This is a comment --> yorum satırları, /** ile aynı mantıklta çalışır aç kapa
