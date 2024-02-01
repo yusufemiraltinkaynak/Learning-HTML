@@ -14,9 +14,25 @@ title falan eklediğinde fenotipi araya sıkıştır
 Aynı şekilde sadece paragraf ve başlıkların da arkasını boyayabilirsin
 style="color:blue;" // style="" bir kalıp unutma, önce etki sonra tepkiyi yaz ; ile bitir CSS bilgisi lazım
 style="font-size:300% size belirkerken yüzde kullan CSS 
-Use the style attribute for styling HTML elements
-Use background-color for background color
+Use the style attribute for styling HTML elements 
+Use background-color for background color  
 Use color for text colors
 Use font-family for text fonts
 Use font-size for text sizes
 Use text-align for text alignment
+<b>	Defines bold text
+<em>	Defines emphasized text 
+<i>	Defines a part of text in an alternate voice or mood
+<small>	Defines smaller text
+<strong>	Defines important text
+<sub>	Defines subscripted text
+<sup>	Defines superscripted text
+<ins>	Defines inserted text
+<del>	Defines deleted text
+<mark>	Defines marked/highlighted text
+<q></q> seçilemeyen tırnak işaretini koyar
+<blockquote></blockquote> araya yazdığın şeyin paragraf girintisi oluşturur
+<p>The <abbr title="World Health Organization">WHO</abbr> was founded in 1948.</p> kısaltma üstüne gelince okur ve altını çizer
+<address></address> iletişim bilgilerini yazarken gerekisiz
+<cite></cite> alıntıyı italik yazdırır
+<bdo dir="rtl"> yazıyı ters çevirir
