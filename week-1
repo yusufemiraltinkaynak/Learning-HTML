@@ -37,3 +37,6 @@ Use text-align for text alignment
 <cite></cite> alıntıyı italik yazdırır
 <bdo dir="rtl"> yazıyı ters çevirir
 <!-- This is a comment --> yorum satırları, /** ile aynı mantıklta çalışır aç kapa
+Tomato Orange DodgerBlue MediumSeaGreen Gray SlateBlue Violet
+<h1 style="border:2px solid Tomato;">Hello World</h1> yaparak renkli dikdortgen olustur
+rgba gibi sonu a ile biten alpha opaklık değeri 0-1 arası değer alır 0 full transparan 1 full renkli
