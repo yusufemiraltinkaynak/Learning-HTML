@@ -40,3 +40,60 @@ Use text-align for text alignment
 Tomato Orange DodgerBlue MediumSeaGreen Gray SlateBlue Violet
 <h1 style="border:2px solid Tomato;">Hello World</h1> yaparak renkli dikdortgen olustur
 rgba gibi sonu a ile biten alpha opaklık değeri 0-1 arası değer alır 0 full transparan 1 full renkli
+<head> <link rel="stylesheet" href="styles.css"> </head>
+The target attribute can have one of the following values:
+<a href="https://www.w3schools.com/" target="_blank">Visit W3Schools!</a> target çok önemli
+_self - Default. Opens the document in the same window/tab as it was clicked
+_blank - Opens the document in a new window or tab
+_parent - Opens the document in the parent frame
+_top - Opens the document in the full body of the window
+aynı web sitesi içindeki başka bir bağlantı için www kullanmana gerek yok
+Use mailto: inside the href attribute to create a link that opens the user's email program href="mailto:someone@example.com"
+<button onclick="document.location='default.asp'">HTML Tutorial</button> 
+title="" mouse üstüne geldiğinde ne yazacağını gösterir toolip
+style="text-decoration:none" altyazıyı kaldırır
+a:link seçici, henüz ziyaret edilmemiş bağlantıları hedefler. Yani, bir bağlantının tıklanmadan önceki durumunu ifade eder.
+a:visited seçici ise ziyaret edilmiş bağlantıları hedefler. Yani, bir bağlantının ziyaret edildikten sonraki durumunu ifade eder.
+a:hover fare ile geldiğinde a:active tıklandığında vereceği tepkiler
+baştaki tepkiyi ayarlayıp sonra sadece değişenleri değişitir
+a:link, a:visited { CSS kodu
+  /* Normal ve ziyaret edilmiş bağlantılar için stil tanımlamaları */
+  background-color: #f44336; /* Arkaplan rengi */
+  color: white; /* Yazı rengi */
+  padding: 15px 25px; /* Düğmenin iç boşluğu */
+  text-align: center; /* Yazıyı merkezi hizalamak */
+  text-decoration: none; /* Alt çizgiyi kaldırmak */
+  display: inline-block; /* Bağlantıyı blok element olarak göstermek */
+}
+<h2 id="C4">Chapter 4</h2> başka bir yere atlamak için id ver <p><a href="#C4">Jump to Chapter 4</a></p> hedefe zıplat
+Use the id attribute (id="value") to define bookmarks in a page
+Use the href attribute (href="#value") to link to the bookmark
+resimlerin boyutunu ayarlıyorken hep style="width:128px;height:128px;"> kullan çünkü head içindeki styledan etkilenmez
+style="float:right;width:42px;height:42px;"> float yaparak resmi veya gifi sağa veya sola koy
+resim üstüne farklı kısımlarına link eklemek istiyorsak ilk olarak usemap="#workmap"> şeklinde resmi tanımla
+sonrasında <map name="workmap"> işlemiyle çağır 
+rect - defines a rectangular region
+circle - defines a circular region
+poly - defines a polygonal region
+default - defines the entire region
+<area shape="circle" coords="337, 300, 44" href="coffee.htm"> merkez kordinatları ve yarıçapı verilen dikdörtgen
+önce map açıp çağırıyorsun sonra area da bilgileri giriyorsun
+<head>
+<style>
+p {background-image: url('img_girl.jpg');} </style> css le başlangıçtaki kısma koy arkaplan eklerken url
+css in başına p koyarsan sadece paragraf body koyarsan tüm sayfanın arka planı
+eğer resim küçükse tekrar eder tekraraı önlemek için css içine background-repeat: no-repeat; yapıştır
+body {
+  background-image: url('img_girl.jpg'); /* Arka plan olarak kullanılacak görüntünün dosya yolunu belirtir */
+  background-repeat: no-repeat; /* Görüntünün tekrarlanmasını engeller */
+  background-attachment: fixed; /* Arka planın sabit konumda kalmasını sağlar */ kaydırınca kaymaz
+  background-size: cover; /* Görüntünün body elementinin tamamını kaplayacak şekilde ölçeklenmesini sağlar */
+}
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> yaparak ve <picture>
+  <source media="(min-width: 650px)" srcset="img_food.jpg">
+  <source media="(min-width: 465px)" srcset="img_car.jpg">
+  <img src="img_girl.jpg" style="width:auto;">
+</picture> yaparak her boyuta uyumlu olmasını sağla TAM ANLAMADIM***
+https://www.favicon.cc. ile kendi iconunu yapabilirsin
+head kısmına <link rel="icon" href="favicon.ico" type="image/x-icon"> yazarak küçük ikonu ayarla
+head kısmında yazdığın <title>HTML Tutorial</title> arama sounçlarında çıkan şeydir ve iyi belirlenmelidir
