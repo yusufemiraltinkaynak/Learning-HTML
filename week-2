@@ -1,0 +1,28 @@
+classları style içinde . ile başlayarak tanımla kullanmak istediğin yerde class attributesiyle çağır
+id ise diyezle # tanımlanır ve sadece bir kere kullan
+<p><a href="#C4">Jump to Chapter 4</a></p> diyezleri genelde tek kısımda kullan atlamak için
+Kullanılan karakter setini tanımlayın:
+
+<meta charset="UTF-8">
+Arama motorları için anahtar kelimeleri tanımlayın:
+
+<meta name="keywords" content="HTML, CSS, JavaScript">
+Web sayfanızın bir açıklamasını tanımlayın:
+
+<meta name="description" content="Free Web tutorials">
+Bir sayfanın yazarını tanımlayın:
+
+<meta name="author" content="John Doe">
+Belgeyi her 30 saniyede bir yenileyin:
+
+<meta http-equiv="refresh" content="30">
+Web sitenizin tüm cihazlarda iyi görünmesini sağlamak için görünüm penceresini ayarlama:
+
+***********<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+javascripti <script>
+function myFunction() {
+  document.getElementById("demo").innerHTML = "Hello JavaScript!";
+}
+</script> şeklinde head kısmına yaz
+base href="https://www.example.com/">  tüm urller tek bir url altındda toplanırsa yukarıya böyle tanımla ve body kısmında <a href="page1.html">Sayfa 1</a> kullan
