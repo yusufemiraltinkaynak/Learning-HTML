@@ -97,3 +97,13 @@ body {
 https://www.favicon.cc. ile kendi iconunu yapabilirsin
 head kısmına <link rel="icon" href="favicon.ico" type="image/x-icon"> yazarak küçük ikonu ayarla
 head kısmında yazdığın <title>HTML Tutorial</title> arama sounçlarında çıkan şeydir ve iyi belirlenmelidir
+<tr> arasında <th> ler ekleyerek sütünları oluştur
+<table style="width:100%"> en başa aç
+<ul> <li>Coffee</li> sırasız liste
+<ol> <li>Coffee</li> sıralı
+<dl>
+  <dt>Coffee</dt>
+  <dd>- black hot drink</dd> açıklamalı liste
+<ul style="list-style-type:circle;"> başındaki sitilini belirle
+<span style="color:blue;font-weight:bold;">blue</span>  span kullanarak arada kalan şeyi değiştirebilirsin sadece
+div başta açılır ve section section parçalar her section ayrı bi body gibi
