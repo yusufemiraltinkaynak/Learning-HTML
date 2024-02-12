@@ -107,3 +107,4 @@ head kısmında yazdığın <title>HTML Tutorial</title> arama sounçlarında ç
 <ul style="list-style-type:circle;"> başındaki sitilini belirle
 <span style="color:blue;font-weight:bold;">blue</span>  span kullanarak arada kalan şeyi değiştirebilirsin sadece
 div başta açılır ve section section parçalar her section ayrı bi body gibi
+margin-top: 20px; yazıyı 20px aşşağıya indirir
