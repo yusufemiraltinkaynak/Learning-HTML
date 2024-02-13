@@ -38,6 +38,16 @@ border: 1px solid red; 1px: Kenarlığın kalınlığını belirtir.
 solid: Kenarlık stili. solid, sürekli bir çizgi anlamına gelir.
 red: Kenarlığın rengini belirtir. Burada "red", kırmızı rengi ifade eder.
 
+ALT+SHİFT+F kodları derelr toplar
+CTRL+ALT+ aşşağı yukarı imleci büyütür
+Seçil ATL+ aşşağı yukaru taşır satırları
+CTRL+ Ö yorum satırı açar
+fn + sap sol ok satır sonu başı 
+CTRL+D seçince basınca bir sonraki aynısını seçer
+CTRL+SHIFT+K satır silme
+CTRL+ENTER yeni satır ekler
+
+<hr> çizgi çizer <i> italik <br> yeni satır <mark> işaretler 
 
 
 
