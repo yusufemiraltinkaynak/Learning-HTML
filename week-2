@@ -19,6 +19,7 @@ Belgeyi her 30 saniyede bir yenileyin:
 Web sitenizin tüm cihazlarda iyi görünmesini sağlamak için görünüm penceresini ayarlama:
 
 ***********<meta name="viewport" content="width=device-width, initial-scale=1.0">
+visual stidio da !+enter yapınca iskelet oluşur
 
 javascripti <script>
 function myFunction() {
