@@ -70,4 +70,6 @@ ardından <source src> caç ve / yaparak root dizinindeki videoyu çek
 
 iframe tagı kullanarak kendi web sayfanın içerisine başkasının web sayfasını gömebilirsin
 
+border-radius: 10px; köşeleri yuvarlak yapar
+
 
