@@ -26,3 +26,19 @@ function myFunction() {
 }
 </script> şeklinde head kısmına yaz
 base href="https://www.example.com/">  tüm urller tek bir url altındda toplanırsa yukarıya böyle tanımla ve body kısmında <a href="page1.html">Sayfa 1</a> kullan
+
+<taable border="""> tablo oluşturur tr table row
+th table header td table data
+colspan="3" sutunları birleştiri birleştirir attribute rowspan="" satırları birleştirir 
+
+Bir div elementini yatay olarak merkeze almak için genellikle margin özelliğini kullanabilirsiniz. 
+margin özelliği, dış kenar boşluğunu belirtir ve otomatik olarak ayarlanarak bir elementi yatay olarak merkeze alabilir.
+
+border: 1px solid red; 1px: Kenarlığın kalınlığını belirtir.
+solid: Kenarlık stili. solid, sürekli bir çizgi anlamına gelir.
+red: Kenarlığın rengini belirtir. Burada "red", kırmızı rengi ifade eder.
+
+
+
+
+
