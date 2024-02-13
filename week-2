@@ -50,6 +50,24 @@ CTRL+ENTER yeni satır ekler
 
 <hr> çizgi çizer <i> italik <br> yeni satır <mark> işaretler 
 
+bilgi alış verişi için form taglarını kullan
+tasarımda kayma olmaması için form tagları içinde table table içinde tr th taglarını kullan
+input veri girişini sağlar placholder dagı ise giriin içindeki şeffaf yazan yer
+keza password email kullanılabilir chack box aşşağıdaki işaretlenen şeyler
+chackbozlarda soununa checked ture eklersen seçili gelir
+radio inputunda nameler aynı olursa tek biri seçilebilir aynı anda
+file dosya seçmeye yarar
+input type=submit göndermeye yarar ve bir valusunun olması gerekir
+reset value temizle gönderilenlerin temizlenmesini sağlar
+<textarea cols ve rows eklersen sana bi textbox oluşuruuur.
+select tagları içersinde options ekleyebilrsin
+value değerlerine gerek yok backend kısmında işe yarar
+bunları iki kısımdan oluştur. birinci kısım düz frontend ikinci ksım input ksımı
+inputun idsi labelin forunun içi aynı
 
+video tagı içinde ilk heidht ve weight kullan ve kesinlikle controls kullan onların değerlerini yazarken px kullanma
+ardından <source src> caç ve / yaparak root dizinindeki videoyu çek
+
+iframe tagı kullanarak kendi web sayfanın içerisine başkasının web sayfasını gömebilirsin
 
 
