@@ -71,5 +71,7 @@ ardından <source src> caç ve / yaparak root dizinindeki videoyu çek
 iframe tagı kullanarak kendi web sayfanın içerisine başkasının web sayfasını gömebilirsin
 
 border-radius: 10px; köşeleri yuvarlak yapar
-
+.checkbox-container {
+    display: inline-block;
+    vertical-align: middle; cehck box hizalama için label kullan
 
