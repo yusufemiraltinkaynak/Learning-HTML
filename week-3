@@ -22,3 +22,9 @@ Your browser does not support the video tag.
 autoplay muted> eklersen video otomatikmen başlar
 
 <iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY? autoplay=1&mute=1&loop=1"> </iframe> video ekleme otomatik başlar ve muted ve döngüde Value 1 (default): Player controls display.
+
+<select>
+  <option value="option1">Seçenek 1</option>
+  <option value="option2">Seçenek 2</option>
+  <option value="option3">Seçenek 3</option>
+</select> seçenek oluşturur
