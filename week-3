@@ -28,3 +28,19 @@ autoplay muted> eklersen video otomatikmen başlar
   <option value="option2">Seçenek 2</option>
   <option value="option3">Seçenek 3</option>
 </select> seçenek oluşturur
+
+<section> HTML etiketi, belgede bağımsız bir bölümü tanımlamak için kullanılır. Bu bölümler genellikle belgenin mantıksal parçalarını gruplamak için kullanılır ve içeriğiyle ilgili bir anlam taşırlar. Bir sayfa içinde birkaç bölümü tanımlamak için kullanışlıdır.
+
+<section> elementi, genellikle belgenin ana içeriğini oluşturan başlıklar, metinler, resimler ve diğer içerikler gibi HTML elementlerini içerebilir.
+
+<section>
+    <h2>Giriş</h2>
+    <p>...</p>
+</section>
+
+<section>
+    <h2>Ana Bölüm 1</h2>
+    <p>...</p>
+</section>
+
+
