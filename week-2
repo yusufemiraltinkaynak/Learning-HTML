@@ -74,4 +74,4 @@ border-radius: 10px; köşeleri yuvarlak yapar
 .checkbox-container {
     display: inline-block;
     vertical-align: middle; cehck box hizalama için label kullan
-
+ line-height: 70px; divin içindeki yazıyı dikeyde ortalar
