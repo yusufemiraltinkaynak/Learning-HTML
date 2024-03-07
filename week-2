@@ -75,3 +75,4 @@ border-radius: 10px; köşeleri yuvarlak yapar
     display: inline-block;
     vertical-align: middle; cehck box hizalama için label kullan
  line-height: 70px; divin içindeki yazıyı dikeyde ortalar
+box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.1); /* Gölge efekti ekle */
