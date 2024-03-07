@@ -53,4 +53,4 @@ Radio buttonlar, kullanıcının yalnızca bir seçeneği seçmesine izin veren 
   <label for="option3">Option 3</label>
 </form>
 
-
+seçili gelmesi için checked yaz ve tek birinin seçilebilmesi için nameleri ortak olsun
